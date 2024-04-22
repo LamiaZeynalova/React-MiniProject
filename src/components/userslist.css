@@ -1,0 +1,82 @@
+.user-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem; 
+    padding: 2rem;
+  }
+  
+  .user-card {
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    padding-top: 5rem;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    overflow: visible; 
+  }
+  
+  .user-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .user-card img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid white;
+    position: absolute;
+    top: -60px; 
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .user-info {
+    margin-bottom: 1rem;
+  }
+  
+  .user-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 2.5rem; 
+  }
+  
+  .user-profession {
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  .supporters {
+    font-size: 0.9rem;
+    color: #666;
+    margin: 1rem 0;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center; 
+    position: absolute;
+    bottom: -30px; 
+    left: 0;
+    right: 0;
+    opacity: 0; 
+    transition: opacity 0.3s ease, bottom 0.3s ease;
+  }
+  
+  .user-card:hover .social-icons {
+    opacity: 1; 
+    bottom: -40px; 
+  }
+  
+  .social-icon {
+    margin: 0 5px; 
+    font-size: 1.2rem;
+    color: #555; 
+  }
+  
+  .social-icon:hover {
+    color: #000; 
+  }
+  

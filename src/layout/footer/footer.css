@@ -1,0 +1,124 @@
+.footer-container {
+    padding: 50px 100px;
+    background: #f1f1f1;
+   
+   
+  }
+.footer-content{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    font-family: "Muli", sans-serif;
+ 
+    
+}
+.heartIcon{
+    color: rgb(140, 14, 14);
+    font-size: 13px;
+}
+.footerlogo{
+    width: 24%;
+    display: flex;
+    flex-direction: column;
+    gap:22px;
+    list-style: none;
+    margin-bottom: 70px;
+}
+.iconss{
+    display: flex;
+    gap:10px;
+}
+.iconss svg{
+    font-weight: 400;
+    font-size: 35px;
+    background-color: white;
+    border:1px solid grey ;
+    border-radius: 50%;
+    padding: 10px;
+    color: grey;
+}
+.iconss svg:hover{
+    background-color: blue;
+    color: white;
+}
+.logo-img{
+    max-height: 50px;
+    width: 130px;
+    object-fit: cover;
+}
+.footerarea{
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+    margin-bottom: 70px;
+    
+}
+.footerlogo p{
+    color: grey;
+
+}
+
+.footerarea ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding-left: 0;
+    color: grey;
+}
+
+li{
+    
+    cursor: pointer;
+}
+.footerend {
+    height: 130px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(73, 73, 73);
+    margin-top: 20px;
+    padding-left: 100px;
+    padding-right: 50px;
+}
+
+
+@media only screen and (max-width: 750px){
+    .footerarea{
+        margin-left: 30px!important;
+    }
+    .footer-container {
+        padding: 20px;
+      }
+    
+      .footer-content {
+        flex-direction: column;
+        align-items: center;
+      }
+    .footerlogo{
+        margin-left: 30px!important;
+    }
+}
+
+@media only screen and (max-width: 991px){
+    .footer{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .footer-container {
+        padding: 20px;
+      }
+    
+      .footer-content {
+        flex-direction: column;
+        align-items: center;
+      }
+    .footerarea{
+        margin-left: 100px;
+    }
+    .footerlogo{
+        margin-left: 100px;
+    }
+    
+}

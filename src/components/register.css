@@ -1,0 +1,96 @@
+.container {
+    font-family: 'Arial', sans-serif;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #f4f7fa;
+  }
+  
+  
+  .register-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .register-form h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 30px;
+    font-size: 700;
+    font: bold;
+    text-transform: capitalize;
+  }
+  
+  .input-group {
+    margin-bottom: 12px;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  
+  .form-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+
+  }
+ 
+  
+ 
+  .form-header {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  
+  .input-group {
+    margin-bottom: 20px;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 8px;
+}
+    
+    .submit-button {
+        padding: 10px 20px;
+        border: none;
+        background-image: linear-gradient(to right, #3a3af1, #6d96e0, #f26b6b);
+        color: white;
+        font-size: 16px;
+        font-weight: bold;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: opacity 0.3s ease;
+      }
+      
+      .button:hover {
+        opacity: 0.85;
+      }
+      
+   
+  
+  

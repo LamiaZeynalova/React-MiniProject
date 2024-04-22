@@ -1,0 +1,256 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .logo {
+    width: 180px;
+    height: 38px;
+    cursor: pointer;
+  }
+  
+  
+  .language img {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .registration {
+    display: block;
+    width: 122;
+    height: 40px;
+    line-height: 40px;
+    font-size: 18px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    text-decoration: none;
+    background: linear-gradient(90deg, #345af4, #ba62e9);
+    padding: 0 22px;
+    line-height: 40px;
+    border-radius: 6px;
+    color: #fff;
+    font-weight: 600;
+    position: relative;
+    color: white;
+    letter-spacing: 2px;
+    text-align: center;
+    transition: all .35s;
+  }
+  .daxilbtn{
+    position: relative;
+    border: 2px solid #d0cfd2;
+    border-radius: 6px;
+    color: #070707;
+    letter-spacing: 1px;
+    padding: 0 20px;
+    line-height: 40px;
+  }
+  
+  
+  
+  .registration:hover {
+    background-color: #9762E9;
+    color: #fff;
+  }
+  
+  
+  .nav-section {
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    z-index: 1200;
+  }
+  
+  .nav {
+    border-radius: 5px;
+    padding: 10px 30px;
+     width: 83%;
+    display: flex;
+    align-items: center;
+    height: 80px;
+    z-index: 999;
+    background-color: white;
+    justify-content: space-between;
+  }
+  
+  .menu-links ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+  }
+  
+  .menu-links ul li a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .menu-links ul li a:hover {
+    color: #2F57EF;
+  }
+  
+  .nav-buttons {
+    display: flex;
+    gap: 13px;
+    align-items: center;
+  }
+  
+  .menu-icon {
+    display: none;
+    cursor: pointer;
+  }
+  
+  .menu-icons svg {
+    font-size: 20px;
+    background-color: grey;
+    padding: 5px;
+    color: white;
+  }
+  
+  .language {
+    position: relative; 
+    display: flex;
+    align-items: center; 
+    cursor: pointer;
+  }
+  
+  .language-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .dropdown {
+    position: absolute;
+    top: calc(100% + 5px); 
+    left: 0; 
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    width: 200px;
+    display: none; 
+    z-index: 100; 
+  }
+  
+  .language:hover .dropdown {
+    display: block; 
+  }
+  
+  .dropdown li {
+    padding: 8px 12px;
+    list-style: none;
+  }
+  
+  .dropdown li:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .sidebar-menu {
+    position: fixed;
+    top: 0;
+    z-index: 1500;
+    background-color: white;
+    width: 300px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    left: -300px;
+    gap: 40px;
+    padding-left: 25px;
+    box-sizing: border-box;
+    transition: 0.7s;
+  }
+  
+  .sidebar-menu.open {
+    left: 0;
+  }
+  
+  .sidebar-menu div:first-of-type svg {
+    font-size: 30px;
+  }
+  
+  .sidebar-menu ul {
+    list-style-type: none;
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+  }
+  
+  .sidebar-menu ul li a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .sidebar-menu div:nth-last-of-type(2) {
+    display: flex;
+    gap: 5px;
+  }
+  
+  .sidebar-menu .daxilibtn {
+    width: 80;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    background-color: white;
+    color: black;
+  }
+  
+  .sidebar-menu .registration {
+    width: 100;
+    height: 40px;
+    background-color: #9762E9;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .sidebar-menu p {
+    color: gray;
+  }
+  
+  .sidebar-menu div:last-of-type {
+    display: flex;
+    gap: 5px;
+  }
+  
+  .sidebar-menu div:last-of-type svg {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    font-size: 17px;
+    border: 1px solid gray;
+  }
+  
+  .vl {
+    border-left: 1px solid gray;
+    height: 30px;
+  }
+  
+  @media only screen and (max-width: 1100px) {
+    .nav-buttons {
+      display: none;
+    }
+    .menu-icon {
+      display: flex;
+      gap: 15px;
+    }
+    .menu-icon svg {
+      font-size: 30px;
+      color: gray;
+    }
+    .menu-links {
+      display: none;
+    }
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .logo {
+      width: 130px;
+      height: 30px;
+      cursor: pointer;
+    }
+  }
+  

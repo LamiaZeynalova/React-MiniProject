@@ -1,0 +1,214 @@
+{
+ "users":[
+   { 
+    "id": "1",
+   "name": "Vüsal Əliyev",
+   "image": "https://kofe.al/storage/images/users/65c8c6ed8d403.jpeg",
+   "info": "TikTok-da oyun yayınları açarağ tanınan biri.",
+   "supporter":  119,
+   "category": "sosialmedia",
+   "Socialglobe": true
+
+   },
+   
+    {
+      "id": "2",
+      "name": "Toğrul Ələkbər",
+      "image": "https://kofe.al/storage/images/users/65d7377a20176.JPG",
+      "info": "İnsan inkişafçısı",
+      "supporter": 58,
+      "category": "sosialmedia",
+      "Socialglobe": true,
+      "facebook": true,
+      "instagram": true
+      
+  },
+  {
+    "id": "3",
+    "image": "https://kofe.al/storage/images/users/65ae11e001a4d.jpg",
+    "title": "Sahin Kalilov",
+    "supporter": 1,
+    "category":"incesenet",
+    "instagram": true,
+    "Socialglobe": true
+  },
+  {
+    "id": "4",
+    "name": "Ellada Aliyeva",
+    "image": "https://kofe.al/storage/images/users/661141e9abbb7.jpg",
+    "title": "Youtuber",
+    "supporter": 17,
+    "category":"sosialmedia",
+    "instagram": true,
+    "Socialglobe": true
+    
+},
+{
+  "id": "5",
+  "name": "Kamran Aliyev",
+  "image": "https://kofe.al/storage/images/users/6612f871ee8b9.jpg",
+  "title": "Yayinci",
+  "supporter": 2,
+  "category":"sosialmedia",
+  "instagram": true,
+  "facebook": true
+  
+  
+},
+{
+  "id": "6",
+  "image": "https://kofe.al/storage/images/users/D5EiUEWH68Cts3WCCe5VhzuJYqU09LpfKvAuiBAA.jpg",
+  "title": "Couple traveller influencer",
+  "name": "Evsiz Səyyahlar",
+  "supporter": 54,
+  "instagram": true,
+  "youtube": true,
+  "Socialglobe": true,
+  "category":"blog"
+},
+{
+  "id": "7",
+  "name": "Turkan Ismayilli",
+  "image": "https://kofe.al/storage/images/users/64cd3091e8246.png",
+  "title": "Autizm sindromlu uşaqlar üçün Animasiya kanali",
+  "supporter": 86,
+  "category":"sosialmedia",
+  "instagram": true,
+  "facebook": true
+
+},
+{
+  "id": "8",
+  "name": "Ahu Kamranli",
+  "image": "https://kofe.al/storage/images/users/65d9b8b8e91d0.jpeg",
+  "title": "Gezen, arasdiran, paylasan",
+  "supporter": 112,
+  "category":"bloger",
+  "instagram": true,
+  "facebook": true
+
+ 
+}, 
+{
+  "id": "9",
+  "image": "https://kofe.al/storage/images/users/PB1k4N6VgLYzY5utsTukVfjJyDSgyotkijP0f9ED.jpg",
+  "title": "Rustam Mammadov",
+  "subtitle": "Strimer",
+  "supporter": 3,
+  "tiktok": true,
+  "telegram": true,
+  "youtube": true,
+  "globe": true,
+  "category":"streaming"
+},
+
+{
+  "id": "10",
+  "name": "Sabir Memmedov",
+  "image": "https://kofe.al/storage/images/users/65ed42876d3f9.jpeg",
+  "title": "Yayinci",
+  "supporter": 53,
+  "category":"bloger",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true
+  
+},
+
+{
+  "id": "11",
+  "name": "Rehim Alxazov",
+  "image": "https://kofe.al/storage/images/users/65e4604aed94f.jpeg",
+  "info": "TikTokda yayimcilig edib Pubg Mobile Oynuyuram",
+  "category":"sosialmedia",
+  "supporter": 8,
+  "instagram": true,
+  "facebook": true
+},
+{
+  "id": 9,
+  "name": "Mehemmed Mehdiyev",
+  "image": "https://kofe.al/storage/images/users/660a6b15dc3a0.jpg",
+  "title": "Editor",
+  "supporter": 2,
+  "category":"rejissor",
+  "instagram": true,
+  "facebook": true,
+  "youtube": true,
+  "Socialglobe": true
+}  
+ ],
+ "blogs":[
+  {
+      "image": "https://kofe.al/storage/images/users_posts/GYFWrJZ7AI3XR9IJ8Hr2EROIPylZi949CYCHwGOw.jpg",
+      "id": "1",
+      "title": "Bundan sonra daha effektiv yazacaqsan!",
+      "info": "Adətən mətn yazarkən diqqətdən qaçırdığımız bir sıra məqamlar olur. Onun strukturu, vermək istədiyimiz mesajın zamanlaması və forması çox vaxt oxucunu",
+      "owner": "Avaz Cafarov"
+  },
+  {
+      "image": "https://kofe.al/storage/images/users_posts/SM8S3Zgsh6TXX7XqfKdn3AXiPyJ3F2MC67ptRdeh.jpg",
+      "id": "2",
+      "title": "“Uğur hekayəm”",
+      "info": "“Bir Fincan Çay”",
+      "owner": "Günel İsmayılova"
+  },
+  {
+      "image": "https://kofe.al/storage/images/users_posts/T4V7vyyfmToenzeByo58EVP5xqp3j9C0eXQGkyPS.jpg",
+      "id": "3",
+      "title": "Worldef Istanbul tədbirinə ÖDƏNİŞSİZ Bilet",
+      "info": "Worldef Istanbul iştirak etmək istəyən şəxslər üçün ödənişsiz bilet əldə etmək istəyənlər üçün şans",
+      "owner": "ECOM AZ"
+  },
+  {
+      "image": "https://kofe.al/storage/images/users_posts/nnjA4vCkIqCfe4eFz9YfBmtLBBklf8RLbI3aJzBd.jpg",
+      "id": "4",
+      "title": "Nəbi Xəzri - Ürək",
+      "info": "Nəbi Xəzrinin - Ürək şeiri ilə tanış olaq",
+      "owner": "Tofiq Vəliyev"
+  },
+  {
+      "image": "https://kofe.al/storage/images/users_posts/DF02PRxTsz8X43wenQuZPv9TEeMHFnSDB8zydz2k.jpg",
+      "id": "5",
+      "title": "Instagramda aktivlik saatı yalanı.",
+      "info": "Instagramda və digər sosial şəbəkələrdə izləyicilərinizin aktivlik saatına əsasən paylaşım etməniz yaxşıdır. Amma belə bir xüsusi qanunauyğunluq varmı",
+      "owner": "Avaz Cafarov"
+  },
+  {
+      "image": "https://kofe.al/storage/images/users_posts/ge6z2DesXdhRLiYqeyTUQvT1lQqGByUjTXqsS7Ts.png",
+      "id": "6",
+      "title": "Qoğal uşaq mahnısı (Qoğal nağılından) - Azərbaycan uşaq mahnıları",
+      "info": "Qoğalın nağılında, hər kəsdən qaçan qoğalın oxuduğu mahnı.",
+      "owner": "Ulduzlu Yol"
+  },
+  {
+      "image": "https://kofe.al/storage/images/users_posts/OEZatjGu18pCtwGmi2Wk5viG4pemI73Ik120X0Ec.png",
+      "id": "7",
+      "title": "Cəsur qoyun nağılı dinlə - Azərbaycan dilində uşaq kanalı @Ulduzluyol",
+      "info": "Başlıq: Cəsur qoyun nağılı | Rus kalq nağılı | Nağıllar və Hekayələr Müəllif: Rus kalq nağılı",
+      "owner": "Ulduzlu Yol"
+  },
+  {
+      "image": "https://kofe.al/storage/images/users_posts/UWjzVfB1kCOMEyd8du2ispFqrgFz9jwLHJS9KeyI.png",
+      "id": "8",
+      "title": "Güzgü nağılı dinlə - Azərbaycan dilində uşaq kanalı @Ulduzluyol",
+      "info": "Başlıq: Güzgü nağılı | Zahid Xəlil | Nağıllar və Hekayələr Müəllif: Zahid Xəlil",
+      "owner": "Ulduzlu Yol"
+  },
+  {
+      "image": "https://kofe.al/storage/images/users_posts/jfLqbzChKAX4MBQHokt0ad7ZGoLwOKqFW9mk42aN.png",
+      "id": "9",
+      "title": "Evcik nağılı dinlə (Qısa nağıllar və hekayələr)",
+      "info": "Başlıq: Evcik nağılı dinlə | Dünya ədəbiyyatı | Nağıllar və Hekayələr Müəllif: Dünya ədəbiyyatı",
+      "owner": "Ulduzlu Yol"
+  },
+  {
+      "image": "https://kofe.al/storage/images/users_posts/P7dOv8KWZMuP1QwpYCAo2QUkvMp8eujI0YWcknK1.png",
+      "id": "10",
+      "title": "Suyun haqqı suya nağılı dinlə - @Ulduzluyol",
+      "info": "Başlıq: Suyun haqqı suya | Nağıllar | Ədaləti öyrədən hekayələr Səsləndirmə: danishankitab az saytından",
+      "owner": "Ulduzlu Yol"
+  }
+]
+ 
+}
