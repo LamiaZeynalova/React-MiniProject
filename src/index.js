@@ -12,6 +12,7 @@ import { CustomStore } from './store';
 import ErrorPage from './pages/errorPage';
 import Login from "./components/login";
 import Register from "./components/register"
+import User from "./pages/user"
 
 
 
@@ -23,6 +24,11 @@ const router=createBrowserRouter([
       {
         path:"/uzvlerimiz",
         element:<Uzvlerimiz/>
+      },
+      {
+        path:"/user/:id",
+        element: <User/>
+
       },
       {
         path:"/blogs",

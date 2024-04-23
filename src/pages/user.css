@@ -1,0 +1,109 @@
+/* Profil sayfası konteyneri */
+.profile-container {
+    font-family: 'Arial', sans-serif;
+    width:100% ;
+    margin: auto;
+    padding: 70px;
+  }
+  
+  
+  .user-background {
+    position: relative;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-bottom: 60px;
+  }
+  
+  .background-img {
+    width: 100%;
+   height: 400px;
+    object-fit: cover;
+  }
+  
+  
+  .profile-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-right: 20px;
+    object-fit: cover;
+    border: 5px solid white;
+  }
+  
+  .profile-name {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .profile-info {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .profile-details {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
+  .profile-card {
+    flex-grow: 2;
+  }
+  
+  .card-img {
+    width: 100%;
+    height: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  
+  .profile-info {
+    flex-grow: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  .profile-info h1{
+    font-size: 30px;
+    font: bolder;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.5rem;
+  }
+  .profile-info p{
+    color: grey;
+   
+  }
+  
+  .supporter-info {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .supporter-info span {
+    margin-left: 5px;
+    font-weight: normal;
+  }
+  
