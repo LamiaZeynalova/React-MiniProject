@@ -5,6 +5,7 @@ import App from './App';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import Uzvlerimiz from './pages/uzvlerimiz';
 import Blogs from './pages/blogs';
+import Blog from "./pages/blog";
 import New from './pages/home/new';
 import Faq from './pages/faq';
 import { Provider } from 'react-redux';
@@ -55,7 +56,10 @@ const router=createBrowserRouter([
   path: "/register",
   element: <Register/>,
 },
-
+{
+  path: "/blogs/:id",
+  element: <Blog/>,
+},
     ]
   }
 ])

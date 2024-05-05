@@ -137,7 +137,7 @@
   "facebook": true
 },
 {
-  "id": 12,
+  "id": "12",
   "name": "Mehemmed Mehdiyev",
   "image": "https://kofe.al/storage/images/users/660a6b15dc3a0.jpg",
   "title":"Enerjimizin yüksək dalğaya kökləndiyi dairəmizə sən də daxil ol! Ümid, sevinc və güc yaymaq missiyasında ruhlandırıcı bir blogger olaraq, daha çox insanlara çatmaq üçün dəstəyinizə ehtiyacım var. Sizin ianəniz (virtual kofeniz) təsirli paylaşımların sayını artırır və bizə ehtiyacı olan daha çox insanlarla əlaqələndirir. Gəlin dünyaya birlikdə ilham verək! Elə indi ianə vermək və bu təşəbbüsün bir parçası olmaq üçün, virtual kofe alın.",
@@ -151,76 +151,113 @@
 }  
  ],
  "blogs":[
+   {
+       "image": "https://kofe.al/storage/images/users_posts/jfLqbzChKAX4MBQHokt0ad7ZGoLwOKqFW9mk42aN.png",
+       "id": "1",
+       "title": "Evcik nağılı dinlə (Qısa nağıllar və hekayələr)",
+       "info": "Başlıq: Evcik nağılı dinlə | Dünya ədəbiyyatı | Nağıllar və Hekayələr Müəllif: Dünya ədəbiyyatı",
+       "owner": "Ulduzlu Yol",
+       "time": "29.04.2024",
+       "readtime":3,
+       "review": 18,
+       "ownerimg":"https://kofe.al/storage/images/users/65b8a574a0419.png",
+       "link":"https://youtu.be/BWgU_VuPyyI"
+      },
+      {
+    "image": "https://kofe.al/storage/images/users_posts/OEZatjGu18pCtwGmi2Wk5viG4pemI73Ik120X0Ec.png",
+    "id": "2",
+    "title": "Cəsur qoyun nağılı dinlə - Azərbaycan dilində uşaq kanalı @Ulduzluyol",
+    "info": "Başlıq: Cəsur qoyun nağılı | Rus kalq nağılı | Nağıllar və Hekayələr Müəllif: Rus kalq nağılı",
+    "owner": "Ulduzlu Yol",
+    "ownerimg":"https://kofe.al/storage/images/users/65b8a574a0419.png",
+    "link":"https://youtu.be/QoJpBOi-XCM",
+    "time": "29.04.2024",
+    "readtime":3,
+    "review": 18
+  },
   {
-      "image": "https://kofe.al/storage/images/users_posts/GYFWrJZ7AI3XR9IJ8Hr2EROIPylZi949CYCHwGOw.jpg",
-      "id": "1",
+    "image": "https://kofe.al/storage/images/users_posts/UWjzVfB1kCOMEyd8du2ispFqrgFz9jwLHJS9KeyI.png",
+    "id": "3",
+    "title": "Güzgü nağılı dinlə - Azərbaycan dilində uşaq kanalı @Ulduzluyol",
+    "info": "Başlıq: Güzgü nağılı | Zahid Xəlil | Nağıllar və Hekayələr Müəllif: Zahid Xəlil",
+    "owner": "Ulduzlu Yol",
+    "time": "29.04.2024",
+    "readtime":3,
+    "review": 18,
+    "ownerimg":"https://kofe.al/storage/images/users/65b8a574a0419.png",
+    "link":"https://youtu.be/oR1nBRhBrpg"
+  },
+     {"image": "https://kofe.al/storage/images/users_posts/GYFWrJZ7AI3XR9IJ8Hr2EROIPylZi949CYCHwGOw.jpg",
+      "id": "4",
       "title": "Bundan sonra daha effektiv yazacaqsan!",
       "info": "Adətən mətn yazarkən diqqətdən qaçırdığımız bir sıra məqamlar olur. Onun strukturu, vermək istədiyimiz mesajın zamanlaması və forması çox vaxt oxucunu",
-      "owner": "Avaz Cafarov"
+      "owner": "Avaz Cafarov",
+      "readtime":5,
+      "time": "29.04.2024",
+      "review": 0,
+      "ownerimg":"https://kofe.al/storage/images/users/660d16bccc08c.png",
+      "link":"https://youtu.be/oR1nBRhBrpg"
+    
+
   },
   {
       "image": "https://kofe.al/storage/images/users_posts/SM8S3Zgsh6TXX7XqfKdn3AXiPyJ3F2MC67ptRdeh.jpg",
-      "id": "2",
+      "id": "5",
       "title": "“Uğur hekayəm”",
       "info": "“Bir Fincan Çay”",
-      "owner": "Günel İsmayılova"
+      "owner": "Günel İsmayılova",
+      "time": "29.04.2024",
+      "readtime":3,
+      "review": 30,
+      "ownerimg":"https://kofe.al/storage/images/users/6622cc5fe5473.jpeg"
   },
   {
       "image": "https://kofe.al/storage/images/users_posts/T4V7vyyfmToenzeByo58EVP5xqp3j9C0eXQGkyPS.jpg",
-      "id": "3",
+      "id": "6",
       "title": "Worldef Istanbul tədbirinə ÖDƏNİŞSİZ Bilet",
       "info": "Worldef Istanbul iştirak etmək istəyən şəxslər üçün ödənişsiz bilet əldə etmək istəyənlər üçün şans",
-      "owner": "ECOM AZ"
+      "owner": "ECOM AZ",
+      "time": "29.04.2024",
+      "readtime":7,
+      "review": 18,
+      "ownerimg":"https://kofe.al/storage/images/users/65eee58a3047d.png"
   },
   {
-      "image": "https://kofe.al/storage/images/users_posts/nnjA4vCkIqCfe4eFz9YfBmtLBBklf8RLbI3aJzBd.jpg",
-      "id": "4",
-      "title": "Nəbi Xəzri - Ürək",
-      "info": "Nəbi Xəzrinin - Ürək şeiri ilə tanış olaq",
-      "owner": "Tofiq Vəliyev"
-  },
+    "image": "https://kofe.al/storage/images/users_posts/P7dOv8KWZMuP1QwpYCAo2QUkvMp8eujI0YWcknK1.png",
+    "id": "10",
+    "title": "Suyun haqqı suya nağılı dinlə - @Ulduzluyol",
+    "info": "Başlıq: Suyun haqqı suya | Nağıllar | Ədaləti öyrədən hekayələr Səsləndirmə: danishankitab az saytından",
+    "owner": "Ulduzlu Yol",
+    "time": "29.04.2024",
+    "readtime":3,
+    "review": 18,
+    "ownerimg":"https://kofe.al/storage/images/users/65b8a574a0419.png"
+
+},
   {
       "image": "https://kofe.al/storage/images/users_posts/DF02PRxTsz8X43wenQuZPv9TEeMHFnSDB8zydz2k.jpg",
-      "id": "5",
+      "id": "8",
       "title": "Instagramda aktivlik saatı yalanı.",
       "info": "Instagramda və digər sosial şəbəkələrdə izləyicilərinizin aktivlik saatına əsasən paylaşım etməniz yaxşıdır. Amma belə bir xüsusi qanunauyğunluq varmı",
-      "owner": "Avaz Cafarov"
+      "owner": "Avaz Cafarov",
+      "time": "30.04.2024",
+      "readtime":8,
+      "review": 23,
+      "ownerimg":"https://kofe.al/storage/images/users/660d16bccc08c.png"
   },
   {
       "image": "https://kofe.al/storage/images/users_posts/ge6z2DesXdhRLiYqeyTUQvT1lQqGByUjTXqsS7Ts.png",
-      "id": "6",
+      "id": "9",
       "title": "Qoğal uşaq mahnısı (Qoğal nağılından) - Azərbaycan uşaq mahnıları",
       "info": "Qoğalın nağılında, hər kəsdən qaçan qoğalın oxuduğu mahnı.",
-      "owner": "Ulduzlu Yol"
-  },
-  {
-      "image": "https://kofe.al/storage/images/users_posts/OEZatjGu18pCtwGmi2Wk5viG4pemI73Ik120X0Ec.png",
-      "id": "7",
-      "title": "Cəsur qoyun nağılı dinlə - Azərbaycan dilində uşaq kanalı @Ulduzluyol",
-      "info": "Başlıq: Cəsur qoyun nağılı | Rus kalq nağılı | Nağıllar və Hekayələr Müəllif: Rus kalq nağılı",
-      "owner": "Ulduzlu Yol"
-  },
-  {
-      "image": "https://kofe.al/storage/images/users_posts/UWjzVfB1kCOMEyd8du2ispFqrgFz9jwLHJS9KeyI.png",
-      "id": "8",
-      "title": "Güzgü nağılı dinlə - Azərbaycan dilində uşaq kanalı @Ulduzluyol",
-      "info": "Başlıq: Güzgü nağılı | Zahid Xəlil | Nağıllar və Hekayələr Müəllif: Zahid Xəlil",
-      "owner": "Ulduzlu Yol"
-  },
-  {
-      "image": "https://kofe.al/storage/images/users_posts/jfLqbzChKAX4MBQHokt0ad7ZGoLwOKqFW9mk42aN.png",
-      "id": "9",
-      "title": "Evcik nağılı dinlə (Qısa nağıllar və hekayələr)",
-      "info": "Başlıq: Evcik nağılı dinlə | Dünya ədəbiyyatı | Nağıllar və Hekayələr Müəllif: Dünya ədəbiyyatı",
-      "owner": "Ulduzlu Yol"
-  },
-  {
-      "image": "https://kofe.al/storage/images/users_posts/P7dOv8KWZMuP1QwpYCAo2QUkvMp8eujI0YWcknK1.png",
-      "id": "10",
-      "title": "Suyun haqqı suya nağılı dinlə - @Ulduzluyol",
-      "info": "Başlıq: Suyun haqqı suya | Nağıllar | Ədaləti öyrədən hekayələr Səsləndirmə: danishankitab az saytından",
-      "owner": "Ulduzlu Yol"
+      "owner": "Ulduzlu Yol",
+      "time": "29.04.2024",
+      "readtime":3,
+      "review": 18,
+      "ownerimg":"https://kofe.al/storage/images/users/65b8a574a0419.png"
   }
+  
+
 ]
  
 }
